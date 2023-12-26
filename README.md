@@ -18,6 +18,10 @@ Additionally, it includes code from the "Exploratory Data Analysis (EDA) & Data 
 ### Iris Dataset Visualization
 - Data visualization code specifically applied to the Iris dataset.
 
+### IPL Dataset Visualization
+- Worked on IPL Dataset for Visualise the Data.
+
+
 ## About the Book
 The code in this repository is based on the book "Machine Learning using Python" by Manaranjan Pradhan & U Dinesh Kumar. You can find the book on [Amazon](https://www.amazon.in/Machine-Learning-Python-Manaranjan-Pradhan/dp/8126579900).
 
